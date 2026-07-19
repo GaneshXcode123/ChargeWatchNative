@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Charge Watch</string>
+    <string name="monitor_channel_name">Monitoring status</string>
+    <string name="monitor_channel_desc">Shows the ongoing "monitoring" notification while the service is running.</string>
+    <string name="alert_channel_name">Charge alerts</string>
+    <string name="alert_channel_desc">Fires when your phone reaches the charge level you set.</string>
+</resources>
